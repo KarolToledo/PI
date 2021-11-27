@@ -6,7 +6,7 @@
     box-sizing: border-box;
     font-family: 'Noto Sans', sans-serif;
     font-size: 100%;
-    color: aquamarine;
+    color: #00cdd1;
     line-height: 1.5;
     background-color: black;
 }
@@ -24,8 +24,8 @@ fieldset {
     border-radius: 10px;
     padding: 20px;
     margin-bottom: 20px;
-    border-color: aqua;
-    box-shadow: 2px 2px 2px purple;
+    border-color: rgb(132, 41, 218);
+    box-shadow: 2px 2px 2px #00cdd1;
 }
 
 .button {
